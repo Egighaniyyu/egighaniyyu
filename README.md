@@ -5,7 +5,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Informatics+Engeneering+Student;UI+UX+Designer;UI+Engineer;Frontend+Developer;Web+Designer;Web+Developer)](https://git.io/typing-svg)
 </div>
 <p align="center" >
 <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
@@ -24,9 +24,9 @@ I am Egi Ghaniyyu, a student and tech enthusiast with a passion for Software Dev
 
  -  🔭 I’m currently working on something cool 😉
 
-- 👯 I’m looking forward to collaborate on python projects.
+- 👯 I’m looking forward to collaborate on ui ux & web development projects.
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 🌱 Learning about Frontend Tech Stack
 
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
@@ -87,17 +87,10 @@ I am Egi Ghaniyyu, a student and tech enthusiast with a passion for Software Dev
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
 
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
   </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a>
 </p>
 
 
@@ -164,7 +157,9 @@ I am Egi Ghaniyyu, a student and tech enthusiast with a passion for Software Dev
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
 
-  <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+  <a href="https://www.figma.com" target="_blank">
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"/>
+  </a>
 </p>
 
 <br> 
